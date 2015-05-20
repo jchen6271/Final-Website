@@ -1,0 +1,31 @@
+Bacon and Eggs,20,75,5,20,40,10,"meatValue=1.5,eggValue=2",vegetableValue=0
+Butter Muffin,20,37.5,5,15,40,1,"butterflyWings=1,vegetableValue = 0.5",meatValue=0
+Dragonpie,40,75,5,15,40,1,dragonfruits=1,meatValue=0
+Fish Tacos,20,37.5,5,6,10,10,"fishes=1,corn=1",
+Fishsticks,40,37.5,5,10,40,10,"fishes=1,sticks=1",sticks=1
+Fist Full of Jam,3,37.5,5,15,10,0,fruitValue=0.5,"meatValue=0,vegetableValue=0,sticks=0"
+Froggle Bunwich,20,37.5,5,15,40,1,"froglegs=1,vegetableValue=0.5",
+Fruit Medley,20,25,5,6,10,0,fruitValue=3,"meatValue=0,vegetableValue=0"
+Flower Salad,40,12.5,5,6,10,10,"cactusFlowers=1,vegetableValue=2","fruitValue=0,meatValue=0,eggValue=0,sweetenerValue=0,sticks=0"
+Guacamole,20,37.5,0,10,10,10,"catcusFlesh=1,moleworm=1",fruitValue=0
+Honey Ham,30,75,5,15,40,2,"meatValue=2,sweetenerValue=1",sticks=0
+Honey Nuggets,20,37.5,5,15,40,2,"meatValue=0.5,sweetenerValue=1",sticks=0
+Ice Cream,0,25,50,3,10,10,"dairyValue=1,ice=1,sweetenerValue=1","meatValue=0,eggValue=0,vegetableValue=0,sticks=0"
+Kabobs,3,37.5,5,15,40,5,"meatValue=0.5,sticks=1",sticks=1
+Mandrake Soup,100,150,5,6,60,10,mandrake=1,
+Meatballs,3,62.5,5,10,15,-1,meatValue=0.5,sticks=0
+Meaty Stew,12,150,5,10,15,0,meatValue=3,sticks=0
+Melonsicle,3,12.5,20,3,10,10,"watermelon=1,ice=1,sticks=1","meatValue=0,eggValue=0,vegetableValue=0"
+Monster Lasagna,-20,37.5,-20,6,10,10,monsterValue=2,sticks=0
+Pierogi,40,37.5,5,20,20,5,"eggValue=1,meatValue=0.5,vegetableValue=0.5",sticks=0
+Powdercake,-3,0,0,18750,10,10,"corn=1,honey=1,sticks=1",
+Pumpkin Cookie,0,37.5,15,10,40,10,"pumpkin=1,sweetenerValue=2",
+Ratatouille,3,25,5,15,20,0,vegetableValue=0.5,"meatValue=0,sticks=0"
+Spicy Chili,20,37.5,0,10,10,10,"vegetableValue=1.5,meatValue=1.5",
+Stuffed Eggplant,3,37.5,5,15,40,1,"eggplant=1,vegetableValue=0.5",
+Taffy,-3,25,15,15,40,10,sweetenerValue=3,meatValue=0
+Trail Mix,30,12.5,5,15,10,10,"roastedBirchnut=1,berries=1,fruitValue=0.5","meatValue=0,eggValue=0,vegetableValue=0,dairyValue=0"
+Turkey Dinner,20,75,5,6,60,10,"drumstick=2,meatValue=0.5,vegetableValue=0.5,fruitValue=0.5",
+Unagi,20,18.8,5,10,10,20,"eel=1,lichen=1",
+Waffles,60,37.5,5,6,10,10,"butter=1,eggValue=1,berries=1",
+Wet Goop,0,0,0,6,5,-2,,

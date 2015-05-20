@@ -1,0 +1,13 @@
+//JavaScript
+-using recipe priorities, requirements, and filler restrictions, determine output food
+-character creation page (customization if possible)
+-monster encyclopaedia
+
+//CSS
+
+//PHP
+
+//SQL
+-create characters table
+-create equipment table
+-create monsters table
